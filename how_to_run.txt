@@ -1,0 +1,5 @@
+Open CMD and navigate to the Cowries folder
+type "oladimeji\Scripts\activate" to activate the Virtual environment
+type "set FLASK_APP=cowries.py" to set the flask app
+type "flask run" to start the flask server
+Open any browser and navigate to "http://127.0.0.1:5000/" or "http://localhost:5000/"
